@@ -14,11 +14,6 @@ My TradingView profile: **[EmotionalTrader777](https://www.tradingview.com/u/Emo
 
 ---
 
-## 📸 Screenshot
-*(Add a screenshot here, e.g., `![Sell Signal Example](Screenshot.JPG)`)*
-
----
-
 ## ✨ Features
 - **Optimized for Scalping**:
   - Designed for fast-paced intraday trading on 3-minute charts.
