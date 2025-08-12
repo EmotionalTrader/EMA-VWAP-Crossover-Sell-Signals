@@ -7,6 +7,13 @@ Best used on **3-minute candlesticks** for scalping, this tool combines **Expone
 
 ---
 
+## 📸 Screenshot
+
+![4-Period Rolling VWAP Example](ema_vwap_sell_signals.JPG)
+
+
+---
+
 ## 📎 Direct TradingView Access
 **https://www.tradingview.com/script/TUywCg1w-EMA-VWAP-Crossover-Sell-Signals/**
 
